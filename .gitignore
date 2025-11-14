@@ -47,9 +47,9 @@ Thumbs.db
 # Project specific
 BrTr_ocr.pdf  # Don't commit the PDF (copyright)
 data/         # Don't commit large index files (regenerate with preprocess.py)
-*.npy
-*.bin
-*.pkl
+# *.npy
+# *.bin
+# *.pkl
 
 # Logs
 *.log
